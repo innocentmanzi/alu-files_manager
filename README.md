@@ -27,5 +27,5 @@ Mocha is used in combination with Chai to test the app.
 ![Mocha & Chai](https://miro.medium.com/max/499/0*WpXBkrfgR2g9dw2T.png)
 
 ## Authors
-Innocent Manzi: i.manzi@alustudent.com <be>
-Ajok Deng: a.deng2@alustudent.com <be>
+1. Innocent Manzi: i.manzi@alustudent.com
+2. Ajok Deng: a.deng2@alustudent.com 
